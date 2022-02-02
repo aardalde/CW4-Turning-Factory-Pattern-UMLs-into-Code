@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW4 - Turning (Factory Pattern) UMLs into Code", "CW4 - Turning (Factory Pattern) UMLs into Code\CW4 - Turning (Factory Pattern) UMLs into Code.csproj", "{E65B0FFA-7AD2-4195-97D1-7DBD3DB21EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E65B0FFA-7AD2-4195-97D1-7DBD3DB21EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65B0FFA-7AD2-4195-97D1-7DBD3DB21EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65B0FFA-7AD2-4195-97D1-7DBD3DB21EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65B0FFA-7AD2-4195-97D1-7DBD3DB21EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE097F01-6BAA-4ABD-B671-97B0EFF1A94D}
+	EndGlobalSection
+EndGlobal
